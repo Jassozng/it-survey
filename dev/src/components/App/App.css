@@ -1,0 +1,8 @@
+section.App {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin: 3rem 2rem 0rem 2rem;
+  grid-gap: 2rem;
+  min-height: inherit;
+}

@@ -1,0 +1,10 @@
+header { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 3rem; 
+    background-color:#3B252C;
+    text-align: center;
+    color: #fff;
+    min-width: -webkit-fill-available;
+}

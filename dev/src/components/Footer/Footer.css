@@ -1,0 +1,22 @@
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: auto;
+    min-height: 3rem; 
+    background:#3B252C;
+    text-align: center;
+    color: #fff;
+    min-width: -webkit-fill-available;
+}
+
+footer a {
+    font-family: monospace;
+    text-decoration: none;
+    color: #ffff;
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

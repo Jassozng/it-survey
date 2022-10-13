@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Javascript",
+        "imagePath": "./src/assets/javascript.svg",
+        "votes": 0
+    },
+    {
+        "name": "Java",
+        "imagePath": "./src/assets/java.svg",
+        "votes": 0
+    },
+    {
+        "name": "Python",
+        "imagePath": "./src/assets/python.svg",
+        "votes": 0
+    },
+    {
+        "name": "CSharp",
+        "imagePath": "./src/assets/csharp.svg",
+        "votes": 0
+    }
+]
